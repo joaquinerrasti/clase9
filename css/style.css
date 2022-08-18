@@ -1,0 +1,21 @@
+.header {
+  background-color: 222222;
+  color: white;
+}
+ul {
+  list-style: none;
+}
+.logocat {
+  background-color: F0A83E;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+.fondo{
+    background-image: url(../../img/bowl.png);
+    height: 409px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-content: center;
+}
